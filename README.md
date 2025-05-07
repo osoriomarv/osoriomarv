@@ -3,14 +3,14 @@
 <div align="right">
 📍 Chicago, IL, United States<br>
 🌐 <a href="https://osoriomarv.github.io/index.html">osoriomarv.github.io/</a><br>
-📧 <a href="mailto:osoriomarv@gmail.com">osoriomarv@gmai.com</a><br>
+📧 <a href="mailto:osoriomarv@gmail.com">osoriomarv@gmail.com</a><br>
 </div>
 
 <div>
-<a href="https://linkedin.com/in/yourusername">
+<a href="https://linkedin.com/in/marvinosorio">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://github.com/yourusername">
+<a href="https://github.com/osoriomarv">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 </div>
@@ -47,8 +47,8 @@ I am an experimentalist and breaker by nature.
 ### Threat Hunter | Bank of America 📍 Chicago (hybrid) | July 2023 - Present
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=skill1&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Skill2-3776AB?style=flat-square&logo=skill2&logoColor=white" alt="Splunk" />
-  <img src="https://img.shields.io/badge/Skill3-3776AB?style=flat-square&logo=skill3&logoColor=white" alt="Crowdstrike" />
+  <img src="https://img.shields.io/badge/Splunk-3776AB?style=flat-square&logo=skill2&logoColor=white" alt="Splunk" />
+  <img src="https://img.shields.io/badge/Crowdstrike-3776AB?style=flat-square&logo=skill3&logoColor=white" alt="Crowdstrike" />
 </div>
 
 Bank of America is a multinational technology company that happens to hold clients money and make markets.
@@ -60,8 +60,8 @@ Bank of America is a multinational technology company that happens to hold clien
 
 ### Research Assistant | Tulane University 📍 New Orleans | June 2021 - June 2023
 <div>
-  <img src="https://img.shields.io/badge/Skill1-3776AB?style=flat-square&logo=skill1&logoColor=white" alt="Matlab" />
-  <img src="https://img.shields.io/badge/Skill2-3776AB?style=flat-square&logo=skill2&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Matlab-3776AB?style=flat-square&logo=skill1&logoColor=white" alt="Matlab" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=skill2&logoColor=white" alt="Python" />
 </div>
 
 HiTaP (High Temperature and Pressure lab) explored early planetary formation via computational models and physical experiment using high temperature furnaces.
@@ -78,5 +78,4 @@ HiTaP (High Temperature and Pressure lab) explored early planetary formation via
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </div>
-
 A Jupyter‑based implementation of Particle Swarm Optimization applied to the Prop 99 dataset to tune model parameters for better data fidelity, though achieving suboptimal convergence 
