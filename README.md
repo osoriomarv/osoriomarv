@@ -1,9 +1,9 @@
-# Your Name
+# Marvin Osorio
 
 <div align="right">
 📍 Chicago, IL, United States<br>
-🌐 <a href="(https://osoriomarv.github.io/index.html)/">osoriomarv.github.io/</a><br>
-📧 <a href="mailto:your.email@gmail.com">your.email@gmail.com</a><br>
+🌐 <a href="https://osoriomarv.github.io/index.html">osoriomarv.github.io/</a><br>
+📧 <a href="mailto:osoriomarv@gmail.com">osoriomarv@gmai.com</a><br>
 </div>
 
 <div>
