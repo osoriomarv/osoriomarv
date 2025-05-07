@@ -46,7 +46,7 @@ I am an experimentalist and breaker by nature.
 
 ### Threat Hunter | Bank of America 📍 Chicago (hybrid) | July 2023 - Present
 <div>
-  <img src="https://img.shields.io/badge/Skill1-3776AB?style=flat-square&logo=skill1&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=skill1&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Skill2-3776AB?style=flat-square&logo=skill2&logoColor=white" alt="Splunk" />
   <img src="https://img.shields.io/badge/Skill3-3776AB?style=flat-square&logo=skill3&logoColor=white" alt="Crowdstrike" />
 </div>
