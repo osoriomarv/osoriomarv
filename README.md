@@ -46,35 +46,37 @@ I am an experimentalist and breaker by nature.
 
 ### Threat Hunter | Bank of America 📍 Chicago (hybrid) | July 2023 - Present
 <div>
-  <img src="https://img.shields.io/badge/Skill1-3776AB?style=flat-square&logo=skill1&logoColor=white" alt="Skill1" />
-  <img src="https://img.shields.io/badge/Skill2-3776AB?style=flat-square&logo=skill2&logoColor=white" alt="Skill2" />
-  <img src="https://img.shields.io/badge/Skill3-3776AB?style=flat-square&logo=skill3&logoColor=white" alt="Skill3" />
+  <img src="https://img.shields.io/badge/Skill1-3776AB?style=flat-square&logo=skill1&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Skill2-3776AB?style=flat-square&logo=skill2&logoColor=white" alt="Splunk" />
+  <img src="https://img.shields.io/badge/Skill3-3776AB?style=flat-square&logo=skill3&logoColor=white" alt="Crowdstrike" />
 </div>
 
-Brief description of the company and your role.
-- Key achievement 1
-- Key achievement 2
-- Key achievement 3
-- Key achievement 4
+Bank of America is a multinational technology company that happens to hold clients money and make markets.
+- Detected botnet trying bruteforce attack in the environment
+- Used unsupervised clustering to detect anomalous users verifying identity
+- Completed 19 threat hunts centereted around .NET utilities
+- Created scripts to refine unstructured data to easily readable files
+- Helped deploy teams internal collaborative coding site
 
-### Previous Position | Company Name 📍 Location (remote/hybrid) | Start Date - End Date
+### Research Assistant | Tulane University 📍 New Orleans | June 2021 - June 2023
 <div>
-  <img src="https://img.shields.io/badge/Skill1-3776AB?style=flat-square&logo=skill1&logoColor=white" alt="Skill1" />
-  <img src="https://img.shields.io/badge/Skill2-3776AB?style=flat-square&logo=skill2&logoColor=white" alt="Skill2" />
+  <img src="https://img.shields.io/badge/Skill1-3776AB?style=flat-square&logo=skill1&logoColor=white" alt="Matlab" />
+  <img src="https://img.shields.io/badge/Skill2-3776AB?style=flat-square&logo=skill2&logoColor=white" alt="Python" />
 </div>
 
-Brief description of the company and your role.
-- Key achievement 1
-- Key achievement 2
-- Key achievement 3
+HiTaP (High Temperature and Pressure lab) explored early planetary formation via computational models and physical experiment using high temperature furnaces.
+- Used least‐squares polynomial regression to derive analytic expressions for planetary mass and surface gravity.
+- Applied linear partitioning models and log‐linear solubility relations to quantify element distribution.
+- Implemented combinatorial optimization algorithms (heuristic and exact) to solve minimization problems.
 
-### Another Previous Position | Company Name 📍 Location | Start Date - End Date
+---
+
+## PROJECTS
+
+### Particle Swarm Optimizations
+<a href="https://github.com/osoriomarv/Particle_swarm_optimization_testing">Particle_swarm_optimization_testing</a>
 <div>
-  <img src="https://img.shields.io/badge/Skill1-3776AB?style=flat-square&logo=skill1&logoColor=white" alt="Skill1" />
-  <img src="https://img.shields.io/badge/Skill2-3776AB?style=flat-square&logo=skill2&logoColor=white" alt="Skill2" />
-  <img src="https://img.shields.io/badge/Skill3-3776AB?style=flat-square&logo=skill3&logoColor=white" alt="Skill3" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </div>
 
-Brief description of the company.
-- Key achievement 1
-- Key achievement 2
+A Jupyter‑based implementation of Particle Swarm Optimization applied to the Prop 99 dataset to tune model parameters for better data fidelity, though achieving suboptimal convergence 
