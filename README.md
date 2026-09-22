@@ -17,7 +17,7 @@
 
 I'm an AI Security engineer at Bank of America. I spent three years there as a threat hunter and detection engineer, and before that I was an experimental geochemist, which mostly meant writing code to model things and staring at data. Threat hunting turned out to be the same work with different data. AI security is the same work again, with a model in the loop.
 
-Day to day I build the agentic harnesses a threat-hunt team runs, instrument what those agents touch on the box, red-team the bank's own LLM deployments, and write the detections that fall out of it. I am an experimentalist and a breaker by nature.
+Day to day I build the agentic harnesses a threat-hunt team runs, instrument what those agents touch on the box, evaluate the bank's own LLM deployments, and write the detections that fall out of it. I am an experimentalist and a breaker by nature.
 
 ---
 
@@ -33,7 +33,7 @@ Day to day I build the agentic harnesses a threat-hunt team runs, instrument wha
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge" alt="MATLAB" />
 </div>
 
-**AI security and evaluation:** agent harnesses, OpenTelemetry, LLM red-teaming, prompt injection, MITRE ATLAS, MCP, RAG, LangChain, AI SAST
+**AI security and evaluation:** agent harnesses, OpenTelemetry, LLM evaluation, prompt injection, MITRE ATLAS, MCP, RAG, LangChain, AI SAST
 
 **Investigation and detection:** Splunk (SPL), Microsoft Sentinel (KQL), CrowdStrike Falcon and LogScale (CQL), Microsoft Defender, Sigma, MITRE ATT&CK, Atomic Red Team
 
@@ -49,7 +49,7 @@ Day to day I build the agentic harnesses a threat-hunt team runs, instrument wha
 - Engineered an OpenTelemetry-based, OS-level detection and response sensor for agents. It captures agent API calls, CLI activity, and the OS activity each model touches, so the logs show whether an agent stayed inside its role.
 - Implemented a detection-as-code pipeline in GitLab for the threat-hunting team, feeding a detection-tuning harness.
 - Wrote v1 of the bank's AI SAST, which the penetration-testing team deployed in CI/CD.
-- Designed the LLM red-team and evaluation process for an internal chatbot. The findings moved the bank to a vendor guardrail framework.
+- Designed an LLM evaluation process for an internal chatbot. The findings moved the bank to a vendor guardrail framework.
 - Cut token use by 95% on the harnesses with a context-engineering ledger that keeps an agent's beliefs and facts in separate sets, so a fact prunes a belief.
 
 ### Threat Hunter & Detection Engineer | Bank of America 📍 Chicago (hybrid) | July 2023 - June 2026
